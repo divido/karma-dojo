@@ -4,7 +4,8 @@
   "description": "A Karma plugin. Adapter for Dojo Toolkit.",
   "main": "lib/index.js",
   "scripts": {
-    "test": "grunt test"
+    "test": "grunt test",
+    "install": "grunt build"
   },
   "repository": {
     "type": "git",
